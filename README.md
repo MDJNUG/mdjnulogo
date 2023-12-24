@@ -45,6 +45,7 @@ magick [input_pic_name] -transparent white -define png:exclude-chunks=date,time 
 
 - [@syx-413](https://github.com/syx-413)
 
-### Thanks - [@note286](https://github.com/note286)
+### Thanks 
+[@note286](https://github.com/note286)
 
 
